@@ -1,0 +1,70 @@
+episode_id,session_id,line_range,risk_behaviors,partner_response,task_impact,ps_indicator
+AA1-E01,AA1,L16-L18,Expressing uncertainty,Support,Advanced,Positive
+AA1-E02,AA1,L29-L31,Expressing uncertainty,Support,Advanced,Positive
+AA1-E03,AA1,L40-L42,Expressing uncertainty,Support,Advanced,Positive
+AA1-E04,AA1,L91-L94,Raising concerns,Support,Advanced,Positive
+AA1-E05,AA1,L105-L117,Challenging/pointing out errors,Support,Advanced,Positive
+AA1-E06,AA1,L124-L143,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+AA1-E08,AA1,L145-L162,Raising concerns; Proposing changes,Support,Advanced,Positive
+AA1-E09,AA1,L164-L225,Expressing uncertainty,Support,Advanced,Positive
+AA1-E11,AA1,L241-L244,Expressing uncertainty,Support,Advanced,Positive
+AA1-E12,AA1,L254-L263,Asking questions,Support,Advanced,Positive
+AA1-E13,AA1,L294-L297,Asking questions,Support,Advanced,Positive
+AA1-E14,AA1,L303-L307,Asking questions,Support,Advanced,Positive
+AA1-E15,AA1,L318-L336,Challenging/pointing out errors,Support,Advanced,Positive
+AA1-E16,AA1,L384-L388,Expressing uncertainty,Support,Advanced,Positive
+AA1-E17,AA1,L410-L413,Asking questions,Support,Advanced,Positive
+AA1-E19,AA1,L484-L500,Expressing uncertainty,Support,Advanced,Positive
+AA1-E20,AA1,L504-L521,Raising concerns,Support,Advanced,Ambiguous
+BA1-E01,BA1,L10-L27,Asking questions,Support,Advanced,Positive
+BA1-E02,BA1,L36-L38,Proposing changes,Support,Stalled,Positive
+BA1-E03,BA1,L38-L44,Expressing uncertainty,Support,Advanced,Positive
+CA1-E01,CA1,L06-L06,Asking questions,Neutrality,Stalled,Ambiguous
+CA1-E02,CA1,L12-L32,Challenging/pointing out errors,Support,Advanced,Positive
+CA1-E03,CA1,L38-L46,Proposing changes,Neutrality,Advanced,Positive
+CA1-E04,CA1,L66-L70,Expressing uncertainty,Support,Advanced,Positive
+CA1-E05,CA1,L80-L87,Expressing uncertainty,Support,Advanced,Positive
+CA1-E06,CA1,L93-L95,Asking questions,Support,Advanced,Positive
+DA2-E01,DA2,L04-L04,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+DA2-E02,DA2,L10-L16,Challenging/pointing out errors,Support,Advanced,Positive
+DA2-E03,DA2,L18-L20,Asking questions; Expressing uncertainty,Support,Advanced,Positive
+DA2-E04,DA2,L54-L54,Raising concerns,Neutrality,Stalled,Negative
+DA2-E05,DA2,L68-L76,Expressing uncertainty,Neutrality,Advanced,Ambiguous
+DA2-E06,DA2,L86-L96,Asking questions; Expressing uncertainty,Neutrality,Advanced,Ambiguous
+DA2-E07,DA2,L106-L120,Asking questions; Expressing uncertainty; Challenging/pointing out errors,Support,Advanced,Positive
+DA2-E08,DA2,L122-L135,Expressing uncertainty,Support,Advanced,Positive
+DA2-E09,DA2,L137-L144,Expressing uncertainty,Support,Advanced,Positive
+DA2-E10,DA2,L150-L163,Expressing uncertainty; Challenging/pointing out errors,Support,Advanced,Positive
+DA2-E11,DA2,L183-L191,Asking questions,Support,Advanced,Positive
+DA2-E12,DA2,L193-L221,Challenging/pointing out errors,Neutrality,Stalled,Ambiguous
+DA2-E13,DA2,L223-L227,Asking questions,Support,Advanced,Positive
+DA2-E14,DA2,L241-L243,Expressing uncertainty,Support,Advanced,Positive
+DA2-E15,DA2,L261-L263,Asking questions,Support,Advanced,Positive
+DA2-E16,DA2,L313-L320,Expressing uncertainty,Support,Advanced,Positive
+DA2-E17,DA2,L336-L343,Asking questions,Support,Advanced,Positive
+EA1-E01,EA1,L24-L40,Expressing uncertainty,Support,Advanced,Positive
+EA1-E02,EA1,L104-L118,Asking questions,Neutrality,Advanced,Ambiguous
+EA1-E03,EA1,L119-L139,Asking questions; Expressing uncertainty,Support,Advanced,Positive
+EA1-E04,EA1,L176-L189,Expressing uncertainty,Neutrality,Advanced,Ambiguous
+JA1-E01,JA1,L09-L20,Proposing changes,Support,Advanced,Positive
+JA1-E02,JA1,L26-L43,Expressing uncertainty,Support,Advanced,Positive
+JA1-E03,JA1,L64-L103,Asking questions; Expressing uncertainty; Challenging/pointing out errors,Support,Advanced,Positive
+JA1-E04,JA1,L109-L130,Expressing uncertainty,Support,Advanced,Positive
+JA1-E05,JA1,L142-L150,Asking questions,Support,Advanced,Positive
+JA1-E06,JA1,L158-L168,Asking questions,Neutrality,Stalled,Ambiguous
+JA1-E07,JA1,L179-L191,Raising concerns,Support,Advanced,Positive
+JA1-E08,JA1,L195-L202,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+JA1-E09,JA1,L229-L248,Expressing uncertainty,Support,Advanced,Positive
+JA1-E10,JA1,L254-L268,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+JA1-E11,JA1,L268-L302,Expressing uncertainty,Support,Advanced,Positive
+JA1-E12,JA1,L308-L324,Asking questions,Support,Advanced,Positive
+OA1-E01,OA1,L23-L31,Asking questions; Expressing uncertainty,Support,Advanced,Positive
+OA1-E02,OA1,L33-L37,Raising concerns,Support,Advanced,Positive
+OA1-E03,OA1,L49-L58,Expressing uncertainty,Support,Stalled,Ambiguous
+OA1-E04,OA1,L75-L90,Expressing uncertainty,Support,Advanced,Positive
+OA1-E05,OA1,L94-L96,Expressing uncertainty,Support,Advanced,Positive
+PA3-E01,PA3,L07-L22,Asking questions,Support,Stalled,Ambiguous
+PA3-E02,PA3,L24-L30,Raising concerns; Challenging/pointing out errors,Rejection,Stalled,Negative
+PA3-E03,PA3,L32-L34,Expressing uncertainty,Rejection,Stalled,Negative
+PA3-E04,PA3,L38-L42,Expressing uncertainty,Rejection,Advanced,Ambiguous
+PA3-E05,PA3,L44-L54,Raising concerns,Rejection,Stalled,Negative

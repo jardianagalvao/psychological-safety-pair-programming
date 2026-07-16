@@ -1,0 +1,80 @@
+episode_id,risk_behavior,partner_reaction,task_impact,ps_indicator
+AA1-E01,Expressing uncertainty,Support,Advanced,Positive
+AA1-E02,Expressing uncertainty,Support,Advanced,Positive
+AA1-E03,Expressing uncertainty,Support,Advanced,Positive
+AA1-E04,Raising concerns,Support,Advanced,Positive
+AA1-E05,Challenging/Pointing out errors,Support,Advanced,Positive
+AA1-E06,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+AA1-E08,Proposing changes,Support,Advanced,Positive
+AA1-E08,Raising concerns,Support,Advanced,Positive
+AA1-E09,Expressing uncertainty,Support,Advanced,Positive
+AA1-E11,Expressing uncertainty,Support,Advanced,Positive
+AA1-E12,Asking questions,Support,Advanced,Positive
+AA1-E13,Asking questions,Support,Advanced,Positive
+AA1-E14,Asking questions,Support,Advanced,Positive
+AA1-E15,Challenging/Pointing out errors,Support,Advanced,Positive
+AA1-E16,Expressing uncertainty,Support,Advanced,Positive
+AA1-E17,Asking questions,Support,Advanced,Positive
+AA1-E19,Expressing uncertainty,Support,Advanced,Positive
+AA1-E20,Raising concerns,Support,Advanced,Ambiguous
+BA1-E01,Asking questions,Support,Advanced,Positive
+BA1-E03,Expressing uncertainty,Support,Stalled,Positive
+CA1-E01,Asking questions,Neutrality,Stalled,Ambiguous
+CA1-E02,Challenging/Pointing out errors,Support,Advanced,Positive
+CA1-E03,Proposing changes,Neutrality,Advanced,Positive
+CA1-E04,Expressing uncertainty,Support,Advanced,Positive
+CA1-E05,Expressing uncertainty,Support,Advanced,Positive
+CA1-E06,Asking questions,Support,Advanced,Positive
+DA2-E01,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+DA2-E02,Challenging/Pointing out errors,Support,Advanced,Positive
+DA2-E03,Asking questions,Support,Advanced,Positive
+DA2-E03,Expressing uncertainty,Support,Advanced,Positive
+DA2-E04,Raising concerns,Neutrality,Stalled,Negative
+DA2-E05,Expressing uncertainty,Neutrality,Advanced,Ambiguous
+DA2-E06,Asking questions,Neutrality,Advanced,Ambiguous
+DA2-E06,Expressing uncertainty,Neutrality,Advanced,Ambiguous
+DA2-E07,Challenging/Pointing out errors,Support,Advanced,Positive
+DA2-E07,Asking questions,Support,Advanced,Positive
+DA2-E07,Expressing uncertainty,Support,Advanced,Positive
+DA2-E08,Expressing uncertainty,Support,Advanced,Positive
+DA2-E09,Expressing uncertainty,Support,Advanced,Positive
+DA2-E10,Expressing uncertainty,Support,Advanced,Positive
+DA2-E10,Challenging/Pointing out errors,Support,Advanced,Positive
+DA2-E11,Asking questions,Support,Advanced,Positive
+DA2-E12,Challenging/Pointing out errors,Neutrality,Stalled,Ambiguous
+DA2-E13,Asking questions,Support,Advanced,Positive
+DA2-E14,Expressing uncertainty,Support,Advanced,Positive
+DA2-E15,Asking questions,Support,Advanced,Positive
+DA2-E16,Expressing uncertainty,Support,Advanced,Positive
+DA2-E17,Asking questions,Support,Advanced,Positive
+EA1-E01,Expressing uncertainty,Support,Advanced,Positive
+EA1-E02,Asking questions,Neutrality,Advanced,Ambiguous
+EA1-E03,Expressing uncertainty,Support,Advanced,Positive
+EA1-E03,Asking questions,Support,Advanced,Positive
+EA1-E04,Expressing uncertainty,Neutrality,Advanced,Ambiguous
+JA1-E01,Proposing changes,Support,Advanced,Positive
+JA1-E02,Expressing uncertainty,Support,Advanced,Positive
+JA1-E03,Asking questions,Support,Advanced,Positive
+JA1-E03,Expressing uncertainty,Support,Advanced,Positive
+JA1-E03,Challenging/Pointing out errors,Support,Advanced,Positive
+JA1-E04,Expressing uncertainty,Support,Advanced,Positive
+JA1-E05,Asking questions,Support,Advanced,Positive
+JA1-E06,Asking questions,Neutrality,Stalled,Ambiguous
+JA1-E07,Raising concerns,Support,Advanced,Positive
+JA1-E08,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+JA1-E09,Expressing uncertainty,Support,Advanced,Positive
+JA1-E10,Expressing uncertainty,Neutrality,Stalled,Ambiguous
+JA1-E11,Expressing uncertainty,Support,Advanced,Positive
+JA1-E12,Asking questions,Support,Advanced,Positive
+OA1-E01,Asking questions,Support,Advanced,Positive
+OA1-E01,Expressing uncertainty,Support,Advanced,Positive
+OA1-E02,Raising concerns,Support,Advanced,Positive
+OA1-E03,Expressing uncertainty,Support,Stalled,Ambiguous
+OA1-E04,Expressing uncertainty,Support,Advanced,Positive
+OA1-E05,Expressing uncertainty,Support,Advanced,Positive
+PA3-E01,Asking questions,Support,Stalled,Ambiguous
+PA3-E02,Challenging/Pointing out errors,Rejection,Stalled,Negative
+PA3-E02,Raising concerns,Rejection,Stalled,Negative
+PA3-E03,Expressing uncertainty,Rejection,Stalled,Negative
+PA3-E04,Expressing uncertainty,Rejection,Advanced,Ambiguous
+PA3-E05,Raising concerns,Rejection,Stalled,Negative
